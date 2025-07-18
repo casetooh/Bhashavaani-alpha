@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Bhashavaani",
+    "slug": "bhashavaani",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.bhashavaani.alpha"
+    }
+  }
+}
